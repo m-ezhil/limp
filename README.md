@@ -1,3 +1,6 @@
+# Note: My old repository is no longer in use due to technical issues. You can view my work here. Thank you, and happy coding! 🚀
+<br>
+
 <h1 align = 'center'>LIMP</h1> 
 <p style='text-align: justify'><b>Limp</b> is a puzzle platformer game. This game is made with python, pygame and pytmx frameworks and Tiled map editor. The concept of the game is The player character to reach the end of level with limited jumps.</p>
 
